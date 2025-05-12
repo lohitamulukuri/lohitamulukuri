@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lohitamulukuri
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning AI
 
 <!---
 lohitamulukuri/lohitamulukuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
